@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"> Hi  I'm Jinwoo Park.👋</h1>
 
-<!--
-**ParkJinWu/ParkJinWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJinWu&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pixx)](https://solved.ac/pixx/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :mailbox_with_mail: Contacts
+
+
+  <a href="https://pixx.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=tistory&logoColor=white"/>
+</a>
+<a href="mailto:onu0311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onu0311@gmail.com"/>
+</a>
+<a href="mailto:gktvlwk@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gktvlwk@naver.com"/>
+</a>
+
+
